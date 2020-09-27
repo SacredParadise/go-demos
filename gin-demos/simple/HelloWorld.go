@@ -11,6 +11,9 @@ func main() {
 		c.String(http.StatusOK, "hello world!")
 	})
 
+	//r.POST("/xxxpost", getting)
+	
+
 	r.Run(":8000")
 }
 

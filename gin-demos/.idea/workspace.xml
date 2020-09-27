@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="541dc76c-54a4-4dba-87e2-80de1c8eaec2" name="Default Changelist" comment="" />
+    <list default="true" id="541dc76c-54a4-4dba-87e2-80de1c8eaec2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gin-demos.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gin-demos.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/simple/HelloWorld.go" beforeDir="false" afterPath="$PROJECT_DIR$/simple/HelloWorld.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tcpscan/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../tcpscan/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tcpscan/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../tcpscan/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tcpscan/.idea/tcpscan.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../tcpscan/.idea/tcpscan.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tcpscan/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../tcpscan/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tcpscan/TcpScan.go" beforeDir="false" afterPath="$PROJECT_DIR$/../tcpscan/TcpScan.go" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,19 +24,35 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Go File" />
+        <option value="Go Application" />
       </list>
     </option>
   </component>
-  <component name="GOROOT" path="D:\install\Go" />
+  <component name="GOROOT" path="C:\install\Go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GoLibraries">
+    <option name="urls">
+      <list>
+        <option value="file://$PROJECT_DIR$/../../.." />
+      </list>
+    </option>
+  </component>
   <component name="ProjectId" id="1i3TkfcwCoKC7loRzE1TK3fh1go" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="PropertiesComponent">
-    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="DefaultGoTemplateProperty" value="Go Application" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Module.GOPATH.is.expanded" value="false" />
     <property name="configurable.Project.GOPATH.is.expanded" value="true" />
     <property name="go.import.settings.migrated" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$" />
-    <property name="settings.editor.selected.configurable" value="com.goide.configuration.GoLibrariesConfigurableProvider" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../../study/go/demos/gin-vue-admin/server" />
+    <property name="settings.editor.selected.configurable" value="go.vgo" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -38,22 +66,91 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="go build com/xl/demos/gin-demos/simple" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Go Build.go build gin-demos/simple/route">
+    <configuration name="go build FileUploadDemo.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="gin-demos" />
-      <working_directory value="$PROJECT_DIR$/" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/simple/FileUploadDemo.go" />
+      <package value="go-demos/gin-demos" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build RouteGroupDemo.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="gin-demos" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/simple/RouteGroupDemo.go" />
+      <package value="go-demos/gin-demos" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build gin-demos/simple (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="gin-demos" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/simple/RouteGroupDemo.go" />
+      <package value="gin-demos/simple" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build gin-demos/simple" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="gin-demos" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/simple/PostDemo.go" />
+      <package value="gin-demos/simple" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build gin-demos/simple/route" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="gin-demos" />
+      <working_directory value="$PROJECT_DIR$" />
       <kind value="PACKAGE" />
-      <filePath value="$PROJECT_DIR$/simple/HelloWorld.go" />
-      <package value="com/xl/demos/gin-demos/simple" />
+      <filePath value="$PROJECT_DIR$/simple/route/main.go" />
+      <package value="gin-demos/simple/route" />
+      <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Go Build.go build com/xl/demos/gin-demos/simple" />
+        <item itemvalue="Go Build.go build gin-demos/simple/route" />
+        <item itemvalue="Go Build.go build gin-demos/simple (1)" />
+        <item itemvalue="Go Build.go build RouteGroupDemo.go" />
+        <item itemvalue="Go Build.go build FileUploadDemo.go" />
+        <item itemvalue="Go Build.go build gin-demos/simple" />
       </list>
     </recent_temporary>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+    <proxy>https://goproxy.cn,direct</proxy>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/../../../pkg/mod/github.com/gin-gonic/gin@v1.6.3/context.go</url>
+          <line>48</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
